@@ -3,4 +3,4 @@ Losses due to Medicare fraud in the United States are estimated to inflate publi
 
 Machine learning is an important tool that is becoming increasingly utilized to identify providers involved in fraudulent transactions. This project uses a mix of unsupervised and supervised machine learning models for the identification of fraudulent inpatient providers and is a step forward towards stopping swindlers. 
 
-The data used for this project is from Medicare claims from 2009 and is available from [Kaggle](https://www.kaggle.com/rohitrox/healthcare-provider-fraud-detection-analysis)
+The data used for this project are from Medicare claims from 2009 and is available from [Kaggle](https://www.kaggle.com/rohitrox/healthcare-provider-fraud-detection-analysis)
